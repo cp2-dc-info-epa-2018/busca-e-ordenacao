@@ -23,7 +23,7 @@ int busca_binaria(int V[], int chave)
 int main()
 {
 	int V[11];
-       	V[0] = 1;
+	V[0] = 1;
 	V[1] = 3;
 	V[2] = 4;
 	V[3] = 6;
